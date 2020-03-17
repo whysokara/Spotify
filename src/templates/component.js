@@ -1,5 +1,7 @@
+/** @jsx jsx */
 import React from 'react'
+import { css, jsx } from '@emotion/core'
 
-const Replace = () => <>{/*  */}</>
+const Replace = () => <div></div>
 
 export default Replace
