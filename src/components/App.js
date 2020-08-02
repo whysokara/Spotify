@@ -9,9 +9,10 @@ const App = () => (
   <>
     <Global styles={GlobalCSS} />
 
-    {/* Delete me and the default .app styles in GlobalCSS */}
+    {/* Delete me, the default .app styles in GlobalCSS, and the reactLogo img import */}
     <img src={reactLogo} />
     <h1>Hello Moto.</h1>
+    {/*  */}
   </>
 )
 
