@@ -1,6 +1,6 @@
 # React Hacker
 
-A simple React starter that's perfect for messing around. Comes with React Bootstrap, Babel, Emotion CSS in JS, ESlint, and Prettier.
+A simple React starter that's perfect for messing around. Comes with Babel, Emotion CSS in JS, ESlint, and Prettier.
 
 # Use
 
