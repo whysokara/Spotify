@@ -1,5 +1,5 @@
 import React from 'react'
-import { Global, css, jsx } from '@emotion/core'
+import { Global, css, jsx } from '@emotion/react'
 import reactLogo from '../img/react.png'
 
 /**
