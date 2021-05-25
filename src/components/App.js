@@ -1,5 +1,7 @@
 import React from 'react'
 import { Global, css, jsx } from '@emotion/react'
+
+// delete me
 import reactLogo from '../img/react.png'
 
 /**
