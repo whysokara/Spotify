@@ -28,6 +28,10 @@ const Sidebar = () => {
           {list}
         </li>
       ))}
+      <li className="new-playlist">
+        <i className="fa fa-plus-circle" />
+        <span>New Playlist</span>
+      </li>
     </ul>
   )
 }
@@ -60,6 +64,21 @@ const CSS = css`
     color: #999;
     text-transform: uppercase;
     font-weight: normal;
+  }
+  li.new-playlist {
+    position: absolute;
+    bottom: 80px;
+    i {
+      margin-right: 5px;
+      transform: translateY(1px);
+      &:before {
+        font-size: 20px;
+      }
+    }
+    span {
+      color: #999;
+      font-weight: 300;
+    }
   }
 `
 
